@@ -29,6 +29,11 @@ public class CreateBranch extends Base{
 		System.out.println(landingPage);
 		System.out.println(landingPage);
 		System.out.println(landingPage);
+		
+		//Timezone for PST
+		System.out.println(landingPage);
+		System.out.println(landingPage);
+		
 	}
 	
 	@AfterTest

@@ -32,5 +32,7 @@ public class BranchMgmtPage extends Base{
 		nameInputBox.sendKeys(name);
 		addressInputBox.sendKeys(address);
 		saveButton.click();
+		
+		//saveButton.click();
 	}
 }
