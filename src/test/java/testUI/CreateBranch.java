@@ -25,7 +25,7 @@ public class CreateBranch extends Base{
 	public void createBranchTest()
 	{
 		BranchMgmtPage landingPage=new BranchMgmtPage();
-		
+		System.out.println(landingPage);
 		
 	}
 	
