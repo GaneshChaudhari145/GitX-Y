@@ -36,6 +36,18 @@ public class CreateBranch extends Base{
 		
 	}
 	
+	@Test
+	public void developTest1()
+	{
+		System.out.println();
+	}
+	
+	@Test
+	public void developTest2()
+	{
+		System.out.println();
+	}
+	
 	@AfterTest
 	public void tearDown()
 	{
